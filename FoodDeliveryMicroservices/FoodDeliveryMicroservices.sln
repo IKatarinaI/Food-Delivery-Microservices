@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDeliveryMicroservices", "FoodDeliveryMicroservices\FoodDeliveryMicroservices.csproj", "{542129F2-A030-45BF-A481-346F9B9788D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuMicroservice", "MenuMicroservice\MenuMicroservice.csproj", "{DE01A264-B11D-42F8-A94E-6D24DC24088D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542129F2-A030-45BF-A481-346F9B9788D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542129F2-A030-45BF-A481-346F9B9788D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542129F2-A030-45BF-A481-346F9B9788D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542129F2-A030-45BF-A481-346F9B9788D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE01A264-B11D-42F8-A94E-6D24DC24088D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE01A264-B11D-42F8-A94E-6D24DC24088D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE01A264-B11D-42F8-A94E-6D24DC24088D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE01A264-B11D-42F8-A94E-6D24DC24088D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0329E5CC-F049-42FB-922A-36B97F9BBCFA}
+	EndGlobalSection
+EndGlobal
